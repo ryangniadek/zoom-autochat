@@ -1,4 +1,5 @@
 # Zoom Auto-Chat
+Vibe-Coded Ryan Gniadek
 
 Automatically sends a message in the Zoom chat every time you join a meeting.
 
