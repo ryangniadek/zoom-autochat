@@ -13,11 +13,12 @@ Automatically sends a message in the Zoom chat every time you join a meeting.
 ### Step 1 — Open Terminal
 Press **Cmd + Space**, type `Terminal`, press Enter.
 
-### Step 2 — Run the installer
-Drag the `zoom-autochat` folder somewhere permanent (e.g. your Desktop or Documents), then in Terminal run:
+### Step 2 — Clone the repo and run the installer
+In Terminal, run:
 
 ```bash
-cd ~/Desktop/zoom-autochat   # or wherever you put the folder
+git clone https://github.com/ryangniadek/zoom-autochat.git
+cd zoom-autochat
 chmod +x install.sh
 ./install.sh
 ```
