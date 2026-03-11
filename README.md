@@ -19,7 +19,6 @@ In Terminal, run:
 ```bash
 git clone https://github.com/ryangniadek/zoom-autochat.git
 cd zoom-autochat
-chmod +x install.sh
 ./install.sh
 ```
 
